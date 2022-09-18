@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Subscribe Channel?", url="https://youtube.com/channel/UC0RGCp2mn4vxO9q5HGlgpxg"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/Mp5moviesG"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/Mp5moviez_1")
                 ]
             ]
         ),
